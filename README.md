@@ -20,13 +20,13 @@ ShhotingGallery is a simple iOS game that tests the player's accuracy and speed.
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/gameplay.png" alt="Gameplay" width="200"/>
+  <img src="screenshots/gameplay.png" alt="Gameplay" width="600"/>
   <br/>
   <em>Gameplay Screen</em>
 </p>
 
 <p align="center">
-  <img src="screenshots/gameover.png" alt="Game Over" width="200"/>
+  <img src="screenshots/gameover.png" alt="Game Over" width="600"/>
   <br/>
   <em>Game Over Screen</em>
 </p>
